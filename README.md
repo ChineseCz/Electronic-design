@@ -1,6 +1,6 @@
 电子设计竞赛——智能送药小车开源
 =========
-本项目用于记录2021年电子设计竞赛-智能送药小车组的三天三夜奋斗
+本项目用于记录2021年电子设计竞赛-智能送药小车组的三天三夜奋斗。
 ## 内容列表
 
 - [背景](##背景)
@@ -35,3 +35,4 @@
 ## 相关链接(个人赛后总结)
 
 CSDN：https://blog.csdn.net/weixin_45845008/article/details/121680588?spm=1001.2014.3001.5501
+期刊：https://qikan.cqvip.com/Qikan/Article/Detail?id=7107956417&from=Qikan_Article_Detail
