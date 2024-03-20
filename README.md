@@ -11,7 +11,7 @@
 ## 背景
 项目起源于2021年电子设计竞赛-智能送药小车组，基本要求：在指定赛道，自制小车，识别数字，送达指定位置。
 本人负责软件开发，具体为小车的图像识别与路线控制，队友负责硬件开发。
-> 具体赛题(引用)：[https://starstudio.feishu.cn/docx/Kp5LdWR0xoQT9Lxa55Rchz2pnKh?from=from_copylink](https://wusiyuan.blog.csdn.net/article/details/121174097)
+> 具体赛题(引用)：https://wusiyuan.blog.csdn.net/article/details/121174097
 
 
 ## 安装
