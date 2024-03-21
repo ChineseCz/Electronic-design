@@ -37,3 +37,5 @@
 CSDN：https://blog.csdn.net/weixin_45845008/article/details/121680588?spm=1001.2014.3001.5501
 
 期刊：https://qikan.cqvip.com/Qikan/Article/Detail?id=7107956417&from=Qikan_Article_Detail
+
+AI电磁智能车：https://github.com/ChineseCz/SmartCar
